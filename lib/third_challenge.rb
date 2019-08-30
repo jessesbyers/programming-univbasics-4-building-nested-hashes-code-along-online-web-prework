@@ -6,7 +6,7 @@ def third_challenge
         age: "53"
         },
       :matriarch => {
-        name: "Lade Montague",
+        name: "Lady Montague",
         age: "54"
         },
       :hero => {
