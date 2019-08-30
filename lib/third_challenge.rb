@@ -7,10 +7,12 @@ def third_challenge
         },
       :matriarch => {
         :name => "Lade Montague",
-
+        :age => "54"
         },
       :hero => {
-        #your key/value pairs here
+        :name => "Lord Capulet",
+        :age => "50"
+        :status => "alive"
         },
       :hero_friends => []
    }, 
